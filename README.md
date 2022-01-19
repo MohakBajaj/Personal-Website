@@ -1,2 +1,1 @@
-# Personal-Website
-Repo for my Website and Blog
+# Repo for my personal website
